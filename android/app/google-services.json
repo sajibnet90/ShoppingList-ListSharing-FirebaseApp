@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "114603928531",
+    "firebase_url": "https://ej-shoppinglist-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ej-shoppinglist",
+    "storage_bucket": "ej-shoppinglist.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114603928531:android:546227b62cb51cff919d26",
+        "android_client_info": {
+          "package_name": "com.ej.shoppinglist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0SyCKhk2W-eWWBDeWJv2PePZoMvboozI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
