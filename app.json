@@ -1,5 +1,9 @@
 {
   "expo": {
+<<<<<<< HEAD
+=======
+    "newArchEnabled": true,
+>>>>>>> a8eb6e5 (Add refreash button)
     "name": "Shopping List",
     "slug": "shopping-list",
     "version": "1.0.0",
