@@ -2,7 +2,7 @@
   "expo": {
     "newArchEnabled": true,
     "name": "Shopping List",
-    "slug": "shopping-list",
+    "slug": "shared-shoping-list",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,14 +27,15 @@
     },
     "extra": {
       "eas": {
-        "projectId": "c2f60f5c-7a4a-424d-9845-d1cd90560501"
+        "projectId": "2326b9df-2d0b-40bf-8356-4724161cdb3c"
       }
     },
     "runtimeVersion": {
       "policy": "appVersion"
     },
     "updates": {
-      "url": "https://u.expo.dev/c2f60f5c-7a4a-424d-9845-d1cd90560501"
-    }
+      "url": "https://u.expo.dev/2326b9df-2d0b-40bf-8356-4724161cdb3c"
+    },
+    "owner": "sajibnet"
   }
 }
