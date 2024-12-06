@@ -127,9 +127,6 @@ const styles = StyleSheet.create({
   },
 });
 
-<<<<<<< HEAD
-export default SharedListsScreen;
-=======
 export default SharedListsScreen;
 
 
@@ -262,4 +259,3 @@ export default SharedListsScreen;
 // });
 
 // export default SharedListsScreen; 
->>>>>>> a8eb6e5 (Add refreash button)
